@@ -85,7 +85,7 @@ header{
     width: 100%;
 }
 .banner-section,.ons-section, .user-section{
-  background-image: url(images/2828921.jpg);
+  background-image: url(main/images/2828921.jpg);
   background-size: cover;
   background-position: bottom;
 }
